@@ -1,2 +1,7 @@
+# System files
+*~
+*.swp
+.DS_Store/
+
 # iPython
 .ipynb_checkpoints/
