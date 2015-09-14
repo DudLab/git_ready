@@ -5,3 +5,6 @@
 
 # iPython
 .ipynb_checkpoints/
+
+# iPython Slide Hosting
+slides.slides.html
