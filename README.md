@@ -8,6 +8,12 @@ This iPython Notebook was built with iPython 3.2.1. A similar version of iPython
 
 # Viewing
 
+## Online
+
+These slides can be viewed online by simply visiting this URL ( <http://nbviewer.ipython.org/format/slides/github/DudLab/git_ready/blob/master/slides.ipynb#/> )
+
+## Offline
+
 To get a working copy of the slides locally, install the requirements and run the following command inside the directory.
 
 ```
